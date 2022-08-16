@@ -11,6 +11,6 @@ It is the repository where I host the projects I have created to improve my Java
 # Projects 
 
 ## 01-Color-Flipper
-![screenshot](./01-color-flipper/img/screenshot.png)
+![screenshot](./01-color-flipper/screenshot.png)
 Live: [https://erentasci-vanilla-javascript-projects-01.vercel.app/](https://erentasci-vanilla-javascript-projects-01.vercel.app/)
 
