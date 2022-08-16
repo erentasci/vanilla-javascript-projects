@@ -1,6 +1,6 @@
-# Vanilla Javascript Projects
+# Vanilla Javascript Projects 🤩🥳 
 
-It is the repository where I host the projects I have created to improve my Javascript skills. (Without Frameworks)
+👾 It is the repository where I host the projects I have created to improve my Javascript skills. (Without Frameworks) 👾
 
 
 | Table of Contents                          |
