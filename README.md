@@ -6,6 +6,7 @@ It is the repository where I host the projects I have created to improve my Java
 | Table of Contents                          |
 | ------------------------------------------ |
 | [01-Color Flipper](#01-color-flipper)      |
+| [02-Counter](#02-counter)                  |
 
 
 # Projects 
@@ -15,3 +16,8 @@ It is the repository where I host the projects I have created to improve my Java
 
 Live URL💻: [https://erentasci-vanilla-javascript-projects-01.vercel.app/](https://erentasci-vanilla-javascript-projects-01.vercel.app/)
 
+
+## 02-Counter 
+![screenshot](./02-counter/img/screenshot.png)
+
+Live URL💻: [https://erentasci-vanilla-javascript-projects-02.vercel.app/](https://erentasci-vanilla-javascript-projects-02.vercel.app/)
