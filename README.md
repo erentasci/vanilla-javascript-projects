@@ -37,5 +37,8 @@ Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/03-revie
 
 Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/04-navbar/](https://erentasci.github.io/vanilla-javascript-projects/04-navbar/)
 
-## 05-Sidebar 
+## 05-Sidebar 👆🏻
 ![screenshot](./05-sidebar/img/screenshot.png)
+
+Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/05-sidebar/](https://erentasci.github.io/vanilla-javascript-projects/05-sidebar/)
+
