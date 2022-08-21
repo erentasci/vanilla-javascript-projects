@@ -10,7 +10,7 @@ It is the repository where I host the projects I have created to improve my Java
 | [03-Reviews](#03-reviews)                  |
 | [04-Navbar](#04-navbar)                    |
 | [05-Sidebar](#05-sidebar)                  |
-| [06-Sidebar](#06-modal)                    |
+| [06-Modal](#06-modal)                      |
 
 
 # 📌 Projects 📌 
