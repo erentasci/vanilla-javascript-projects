@@ -9,8 +9,8 @@ It is the repository where I host the projects I have created to improve my Java
 | [02-Counter](#02-counter)                  |
 | [03-Reviews](#03-reviews)                  |
 | [04-Navbar](#04-navbar)                    |
-| [05-Sidebar](#05-sidebar)                    |
-
+| [05-Sidebar](#05-sidebar)                  |
+| [06-Sidebar](#06-modal)                    |
 
 
 # 📌 Projects 📌 
@@ -42,3 +42,7 @@ Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/04-navba
 
 Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/05-sidebar/](https://erentasci.github.io/vanilla-javascript-projects/05-sidebar/)
 
+## 06-Modal 🗨
+![screenshot](./06-modal/img/screenshot.png)
+
+Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/06-modal/](https://erentasci.github.io/vanilla-javascript-projects/06-modal/)
