@@ -11,6 +11,7 @@ It is the repository where I host the projects I have created to improve my Java
 | [04-Navbar](#04-navbar)                    |
 | [05-Sidebar](#05-sidebar)                  |
 | [06-Modal](#06-modal)                      |
+| [07-Questions](#07-questions)              |
 
 
 # 📌 Projects 📌 
@@ -46,3 +47,8 @@ Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/05-sideb
 ![screenshot](./06-modal/img/screenshot.png)
 
 Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/06-modal/](https://erentasci.github.io/vanilla-javascript-projects/06-modal/)
+
+## 07-Questions ➕
+![screenshot](./07-questions/img/screenshot.png)
+
+Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/07-questions/](https://erentasci.github.io/vanilla-javascript-projects/07-questions/)
