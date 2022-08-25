@@ -12,7 +12,7 @@ It is the repository where I host the projects I have created to improve my Java
 | [05-Sidebar](#05-sidebar)                  |
 | [06-Modal](#06-modal)                      |
 | [07-Questions](#07-questions)              |
-| [08-Menu(#08-menu)                         |
+| [08-Menu](#08-menu)                        |
 
 # 📌 Projects 📌 
 
@@ -55,6 +55,6 @@ Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/07-quest
 
 
 ## 08-Menu 📙
-![screenshot](./08-menu/img/screenshot.png)
+![screenshot](./08-menu/images/screenshot.png)
 
 Live URL💻 : [https://erentasci.github.io/vanilla-javascript-projects/08-menu/](https://erentasci.github.io/vanilla-javascript-projects/08-menu/)
